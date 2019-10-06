@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/rnedl/Documents/myprojects/InfixPrefixPostfix/InfixPrefixPostfix.cpp
+iostream
+-
+iomanip
+-
+cstdlib
+-
+string
+-
+stack
+-
+
