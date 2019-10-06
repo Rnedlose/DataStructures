@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/rnedl/Documents/myprojects/InfixPrefixPostfix/InfixPrefixPostfix.cpp
+/home/rod/Documents/myprojects/DataStructures/InfixPrefixPostfix/InfixPrefixPostfix.cpp
 iostream
 -
 iomanip
