@@ -6,12 +6,10 @@
 
 #IncludeRegexTransform: 
 
-/home/rod/Documents/myprojects/DataStructures/InfixPrefixPostfix/InfixPrefixPostfix.cpp
+/cygdrive/c/Users/rnedl/Documents/myprojects/DataStructures/InfixPrefixPostfix/InfixPrefixPostfix.cpp
 iostream
 -
 iomanip
--
-cstdlib
 -
 string
 -

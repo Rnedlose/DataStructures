@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /opt/clion-2019.2.3/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /cygdrive/c/Users/rnedl/.CLion2019.2/system/cygwin_cmake/bin/cmake.exe
 
 # The command to remove a file.
-RM = /opt/clion-2019.2.3/bin/cmake/linux/bin/cmake -E remove -f
+RM = /cygdrive/c/Users/rnedl/.CLion2019.2/system/cygwin_cmake/bin/cmake.exe -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/rod/Documents/myprojects/DataStructures/InfixPrefixPostfix
+CMAKE_SOURCE_DIR = /cygdrive/c/Users/rnedl/Documents/myprojects/DataStructures/InfixPrefixPostfix
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/rod/Documents/myprojects/DataStructures/InfixPrefixPostfix/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/c/Users/rnedl/Documents/myprojects/DataStructures/InfixPrefixPostfix/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/InfixPrefixPostfix.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/InfixPrefixPostfix.dir/flags.make
 
 CMakeFiles/InfixPrefixPostfix.dir/InfixPrefixPostfix.cpp.o: CMakeFiles/InfixPrefixPostfix.dir/flags.make
 CMakeFiles/InfixPrefixPostfix.dir/InfixPrefixPostfix.cpp.o: ../InfixPrefixPostfix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rod/Documents/myprojects/DataStructures/InfixPrefixPostfix/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/InfixPrefixPostfix.dir/InfixPrefixPostfix.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/InfixPrefixPostfix.dir/InfixPrefixPostfix.cpp.o -c /home/rod/Documents/myprojects/DataStructures/InfixPrefixPostfix/InfixPrefixPostfix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/rnedl/Documents/myprojects/DataStructures/InfixPrefixPostfix/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/InfixPrefixPostfix.dir/InfixPrefixPostfix.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/InfixPrefixPostfix.dir/InfixPrefixPostfix.cpp.o -c /cygdrive/c/Users/rnedl/Documents/myprojects/DataStructures/InfixPrefixPostfix/InfixPrefixPostfix.cpp
 
 CMakeFiles/InfixPrefixPostfix.dir/InfixPrefixPostfix.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/InfixPrefixPostfix.dir/InfixPrefixPostfix.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rod/Documents/myprojects/DataStructures/InfixPrefixPostfix/InfixPrefixPostfix.cpp > CMakeFiles/InfixPrefixPostfix.dir/InfixPrefixPostfix.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/rnedl/Documents/myprojects/DataStructures/InfixPrefixPostfix/InfixPrefixPostfix.cpp > CMakeFiles/InfixPrefixPostfix.dir/InfixPrefixPostfix.cpp.i
 
 CMakeFiles/InfixPrefixPostfix.dir/InfixPrefixPostfix.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/InfixPrefixPostfix.dir/InfixPrefixPostfix.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rod/Documents/myprojects/DataStructures/InfixPrefixPostfix/InfixPrefixPostfix.cpp -o CMakeFiles/InfixPrefixPostfix.dir/InfixPrefixPostfix.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/rnedl/Documents/myprojects/DataStructures/InfixPrefixPostfix/InfixPrefixPostfix.cpp -o CMakeFiles/InfixPrefixPostfix.dir/InfixPrefixPostfix.cpp.s
 
 # Object files for target InfixPrefixPostfix
 InfixPrefixPostfix_OBJECTS = \
@@ -77,14 +77,14 @@ InfixPrefixPostfix_OBJECTS = \
 # External object files for target InfixPrefixPostfix
 InfixPrefixPostfix_EXTERNAL_OBJECTS =
 
-InfixPrefixPostfix: CMakeFiles/InfixPrefixPostfix.dir/InfixPrefixPostfix.cpp.o
-InfixPrefixPostfix: CMakeFiles/InfixPrefixPostfix.dir/build.make
-InfixPrefixPostfix: CMakeFiles/InfixPrefixPostfix.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/rod/Documents/myprojects/DataStructures/InfixPrefixPostfix/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable InfixPrefixPostfix"
+InfixPrefixPostfix.exe: CMakeFiles/InfixPrefixPostfix.dir/InfixPrefixPostfix.cpp.o
+InfixPrefixPostfix.exe: CMakeFiles/InfixPrefixPostfix.dir/build.make
+InfixPrefixPostfix.exe: CMakeFiles/InfixPrefixPostfix.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/rnedl/Documents/myprojects/DataStructures/InfixPrefixPostfix/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable InfixPrefixPostfix.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/InfixPrefixPostfix.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/InfixPrefixPostfix.dir/build: InfixPrefixPostfix
+CMakeFiles/InfixPrefixPostfix.dir/build: InfixPrefixPostfix.exe
 
 .PHONY : CMakeFiles/InfixPrefixPostfix.dir/build
 
@@ -93,6 +93,6 @@ CMakeFiles/InfixPrefixPostfix.dir/clean:
 .PHONY : CMakeFiles/InfixPrefixPostfix.dir/clean
 
 CMakeFiles/InfixPrefixPostfix.dir/depend:
-	cd /home/rod/Documents/myprojects/DataStructures/InfixPrefixPostfix/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/rod/Documents/myprojects/DataStructures/InfixPrefixPostfix /home/rod/Documents/myprojects/DataStructures/InfixPrefixPostfix /home/rod/Documents/myprojects/DataStructures/InfixPrefixPostfix/cmake-build-debug /home/rod/Documents/myprojects/DataStructures/InfixPrefixPostfix/cmake-build-debug /home/rod/Documents/myprojects/DataStructures/InfixPrefixPostfix/cmake-build-debug/CMakeFiles/InfixPrefixPostfix.dir/DependInfo.cmake --color=$(COLOR)
+	cd /cygdrive/c/Users/rnedl/Documents/myprojects/DataStructures/InfixPrefixPostfix/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/c/Users/rnedl/Documents/myprojects/DataStructures/InfixPrefixPostfix /cygdrive/c/Users/rnedl/Documents/myprojects/DataStructures/InfixPrefixPostfix /cygdrive/c/Users/rnedl/Documents/myprojects/DataStructures/InfixPrefixPostfix/cmake-build-debug /cygdrive/c/Users/rnedl/Documents/myprojects/DataStructures/InfixPrefixPostfix/cmake-build-debug /cygdrive/c/Users/rnedl/Documents/myprojects/DataStructures/InfixPrefixPostfix/cmake-build-debug/CMakeFiles/InfixPrefixPostfix.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/InfixPrefixPostfix.dir/depend
 

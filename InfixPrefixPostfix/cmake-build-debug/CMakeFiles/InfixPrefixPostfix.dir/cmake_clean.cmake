@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/InfixPrefixPostfix.dir/InfixPrefixPostfix.cpp.o"
-  "InfixPrefixPostfix"
+  "InfixPrefixPostfix.exe"
   "InfixPrefixPostfix.pdb"
+  "libInfixPrefixPostfix.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

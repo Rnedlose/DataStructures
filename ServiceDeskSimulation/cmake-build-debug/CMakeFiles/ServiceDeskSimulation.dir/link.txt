@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ServiceDeskSimulation.dir/main.cpp.o  -o ServiceDeskSimulation.exe -Wl,--out-implib,libServiceDeskSimulation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

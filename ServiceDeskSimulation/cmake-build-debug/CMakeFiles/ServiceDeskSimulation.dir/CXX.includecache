@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/rnedl/Documents/myprojects/ServiceDeskSimulation/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+deque
+-
+string
+-
+
