@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0f863d9-ad6b-4866-a77a-5a16f4f7a1e6" name="Default Changelist" comment="" />
+    <list default="true" id="a992988c-cd46-46f2-a065-d28addbe73ab" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +22,9 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
-  <component name="ProjectId" id="1SJM291VTfAXpQDMF0JdKYf70ts" />
+  <component name="ProjectId" id="1STYJxg0bFuuq84rpzukwhG6SYE" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,12 +50,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e0f863d9-ad6b-4866-a77a-5a16f4f7a1e6" name="Default Changelist" comment="" />
-      <created>1571277036064</created>
+      <changelist id="a992988c-cd46-46f2-a065-d28addbe73ab" name="Default Changelist" comment="" />
+      <created>1571588984672</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571277036064</updated>
-      <workItem from="1571277039740" duration="1624000" />
+      <updated>1571588984672</updated>
+      <workItem from="1571588986649" duration="248000" />
+      <workItem from="1571963681743" duration="24000" />
     </task>
     <servers />
   </component>

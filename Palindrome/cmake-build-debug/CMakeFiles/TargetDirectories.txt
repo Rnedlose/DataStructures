@@ -1,3 +1,3 @@
-/home/rod/CLionProjects/Palindrome/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/rod/CLionProjects/Palindrome/cmake-build-debug/CMakeFiles/Palindrome.dir
-/home/rod/CLionProjects/Palindrome/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rnedl/CLionProjects/Palindrome/cmake-build-debug/CMakeFiles/Palindrome.dir
+C:/Users/rnedl/CLionProjects/Palindrome/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rnedl/CLionProjects/Palindrome/cmake-build-debug/CMakeFiles/rebuild_cache.dir
