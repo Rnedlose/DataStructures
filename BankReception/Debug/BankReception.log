@@ -1,0 +1,7 @@
+﻿  BankReception.cpp
+C:\Users\rnedl\OneDrive\Documents\myprojects\DataStructures\BankReception\BankReception.cpp(158,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rnedl\OneDrive\Documents\myprojects\DataStructures\BankReception\BankReception.cpp(164,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rnedl\OneDrive\Documents\myprojects\DataStructures\BankReception\BankReception.cpp(181,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rnedl\OneDrive\Documents\myprojects\DataStructures\BankReception\BankReception.cpp(211,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rnedl\OneDrive\Documents\myprojects\DataStructures\BankReception\BankReception.cpp(294,23): warning C4018: '<=': signed/unsigned mismatch
+  BankReception.vcxproj -> C:\Users\rnedl\OneDrive\Documents\myprojects\DataStructures\BankReception\Debug\BankReception.exe

@@ -1,0 +1,4 @@
+﻿  QuickSort.cpp
+C:\Users\rnedl\OneDrive\Documents\myprojects\DataStructures\QuickSort\QuickSort.cpp(170,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rnedl\OneDrive\Documents\myprojects\DataStructures\QuickSort\QuickSort.cpp(210,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  QuickSort.vcxproj -> C:\Users\rnedl\OneDrive\Documents\myprojects\DataStructures\QuickSort\Debug\QuickSort.exe
