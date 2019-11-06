@@ -1,0 +1,9 @@
+﻿  SortingComparison.cpp
+C:\Users\rnedl\source\repos\SortingComparison\SortingComparison.cpp(42,11): error C2131: expression did not evaluate to a constant
+C:\Users\rnedl\source\repos\SortingComparison\SortingComparison.cpp(42,11): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\rnedl\source\repos\SortingComparison\SortingComparison.cpp(42,11): message : see usage of 'nl'
+C:\Users\rnedl\source\repos\SortingComparison\SortingComparison.cpp(42,21): error C2131: expression did not evaluate to a constant
+C:\Users\rnedl\source\repos\SortingComparison\SortingComparison.cpp(42,21): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\rnedl\source\repos\SortingComparison\SortingComparison.cpp(42,21): message : see usage of 'nr'
+C:\Users\rnedl\source\repos\SortingComparison\SortingComparison.cpp(45,25): error C3863: array type 'int [nl]' is not assignable
+C:\Users\rnedl\source\repos\SortingComparison\SortingComparison.cpp(47,29): error C3863: array type 'int [nr]' is not assignable
